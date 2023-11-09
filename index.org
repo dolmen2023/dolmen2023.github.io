@@ -1,0 +1,292 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+optionS: TOC:3
+#+TITLE: Ireland trip September 2023
+* Cousins
+** McGoverns
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/thegirls.png]]
+@@html:<h3><b>@@Rose, Maureen, Katie, Meg, Bernie, Caitlín, Mary Anne@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/inlaws.jpg]]
+@@html:<h3><b>@@Shu, Dave, Mary, Sue, Tom, Janine@@html:</b></h3>@@
+
+** Keatings in Tipperary: September 10
+#+ATTR_HTML: :width 800
+[[file:docs/assets/images/IMG_20230910_120047551_BURST001.jpg]]
+@@html:<h3><b>@@front: Maureen, John and Margaret, Rose. back: Mike, Pat@@html:</b></h3>@@
+
+* Dublin
+
+- Jet Lag
+- Skylon Hotel
+- Hodges Figgis
+- Jameson
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/jameson.jpg]]
+@@html:<h3><b>@@Jameson chandelier@@html:</b></h3>@@
+* Brownshill Dolman and Carlow Castle: September 9
+** Brownshill Dolman
+The tomb was built between 4000 and 3000 BC
+The capstone weighs an estimated 150 metric tons
+
+| [[file:docs/assets/images/IMG_20230909_135028310.jpg]] | [[file:docs/assets/images/IMG_20230909_135430123_HDR.jpg]]|
+@@html:<h3><b>@@Brownshill Dolman@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230909_135055004.jpg]]
+
+** Carlow Castle
+* Clonmel, the Keatings September: 10
+** Clonmel
+
+#+ATTR_HTML: :width 800
+[[file:docs/assets/images/IMG_20230910_120047551_BURST001.jpg]]
+@@html:<h3><b>@@front: Maureen, John and Margaret, Rose. back: Mike, Pat@@html:</b></h3>@@
+#+BEGIN_EXPORT html
+<table>
+<tr><td><img src="docs/assets/images/clonmeltour.png" width="1200" /></td>
+    <td><table>
+            <tr><td>1: Talbot Hotel                  </td></tr>
+            <tr><td>2: The Main Guard                </td></tr>
+            <tr><td>3: John and Margaret Keating     </td></tr>
+            <tr><td>4: Rathronan                     </td></tr>
+            <tr><td>5: Lisronagh                     </td></tr>
+            <tr><td>6: Grandma's House               </td></tr>
+            <tr><td>7: Rathronen                     </td></tr>
+            <tr><td>8: St John Baptist               </td></tr>
+            <tr><td>9: Powerstown                    </td></tr>
+       </table></td>
+</tr>
+</table>
+#+END_EXPORT
+
+Main Guard to St. John Baptist is 7.7 miles direct
+10 miles by road
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/timelinetour.png]]
+@@html:<h3><b>@@Google timeline@@html:</b></h3>@@
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/rose.and.jj.png]]
+@@html:<h3><b>@@Rose and J.J@@html:</b></h3>@@
+
+|[[file:docs/assets/images/the.main.guard.jpg]]|[[file:docs/assets/images/umbrellas.jpg]]|
+@@html:<h3><b>@@The Main Guard and Clonmel Umbrellas@@html:</b></h3>@@
+
+** Rathronan
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_121559877.jpg]]
+@@html:<h3><b>@@Russell house, near Rathronan Cemetery@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_132723396_HDR.jpg]]
+@@html:<h3><b>@@Rathronan Cemetery Gate@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/sign.png]]
+@@html:<h3><b>@@Rathronan Cemetery Gate sign@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_133138125_HDR.jpg]]
+@@html:<h3><b>@@Rathronan Cemetery Church (Church of Ireland)@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_134920800.jpg]]
+@@html:<h3><b>@@Rathronan Cemetery@@html:</b></h3>@@
+
+
+*** Rathronen Graveyard listing:
+
+[[https://tipperarystudies.ie/wp-content/uploads/2020/09/Rathronan-Graveyard.pdf][@@html:<h3><b>@@Rathronan Graveyard listing@@html:</b></h3>@@]]
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/rathronanlisting.png]]
+@@html:<h3><b>@@sample listing@@html:</b></h3>@@
+
+*** transcription
+https://tipperarystudies.ie/wp-content/uploads/2020/09/Rathronan-Graveyard.pdf
+
+click triangle to expand:
+#+BEGIN_EXPORT html
+<details><summary>ENTRY 14: John Russell</summary><p>
+Erected By John And Thomas Russell, Clonmel, As A Tribute Of
+Filial Love And Affection To The Memory Of Their Father John
+Russell, Rathronen, Who Died January 12th 1884 Aged 80 Years.
+The Above Thomas, Died November 6th 1914.  His Daughter Alice
+Francis, Died May 13th 1917.  Of Your Charity Pray For The Soul
+Of John Russell, Airhill, Who Died 28th September 1911.
+</p></details>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<details><summary>ENTRY 17: William Keating</summary><p>
+Here Lieth The Body Of William Keating, Who Departed
+This Life, The 18th Day Of January 1760 Aged 60 Years.
+Requiescant In Peace Amen.  Also His Son Richard, Died
+April 30th 1812 Aged 72 Years.
+</p></details>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<details><summary>ENTRY: 160: Thomas Keating</summary><p>
+Here Lieth The Body Of Thomas Keating Of Ballyveelish, Who Died
+June 26th 1780, Aged 50 Years.  Also Hi Son Patrick Keating, Died
+Dec 1st 1799, Aged 36 Years.  His Son Thomas Keating, Died March
+28th 1832, Aged 63 Years.  And His Daughter Mary Keating, Died
+April 14th 1816, Aged 23 Years.
+</p></details>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<details><summary>ENTRY: 161: ? Keating</summary><p>
+O God Be Merciful To The Soul Of ________ Keating, Departed
+This Life May The 8th 1763, Aged 25 Years.  Erected By Paul
+Keating.
+</p></details>
+<br><br>
+#+END_EXPORT
+
+
+*** youtube videos of Rathronan Cemetery
+
+Tipperary forgotten graveyard by "Mark T"
+Sep 9, 2021. in two parts
+
+[[https://youtu.be/zLQxAur9rNI?si=3M9F1yUd6HYgtzN3][@@html:<h3><b>@@Youtube: Ballyclerahan forgotten graveyard part 1@@html:</b></h3>@@]]
+[[https://youtu.be/yrKPT7x0jMw?si=fIp-Vf3QTxHWxS12][@@html:<h3><b>@@Youtube: Ballyclerahan part 2@@html:</b></h3>@@]]
+
+** Lisronagh
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_123803624.jpg]]
+@@html:<h3><b>@@Ellen, Lawrence, James Keating@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_124250135.jpg]]
+@@html:<h3><b>@@Lisronagh@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_124259761.jpg]]
+@@html:<h3><b>@@Lisronagh@@html:</b></h3>@@
+
+There is a register for "Lisronagh Castle", but I don't find
+any Keatings there:
+https://tipperarystudies.ie/wp-content/uploads/2018/03/Clonmel%20Lisronagh%20Castle%20Inscriptions%20reduced.pdf
+
+** Grandma's house
+
+JJ thinks the house might be 250 years old.
+It is at 52.390127,-7.727797 on road R688.
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_130237058_HDR.jpg]]
+@@html:<h3><b>@@Grandma's house@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_130255848_HDR.jpg]]
+@@html:<h3><b>@@roadsigns across the road@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_130811156_BURST000_COVER.jpg]]
+@@html:<h3><b>@@Jim and Alice's kids@@html:</b></h3>@@
+
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_130829671_HDR.jpg]]
+@@html:<h3><b>@@JJ, Pat, Maureen, Rose, Mike@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_131437967_HDR.jpg]]
+@@html:<h3><b>@@Pat, Mike, Maureen, Rose, JJ@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/house.png]]
+@@html:<h3><b>@@House from above@@html:</b></h3>@@
+
+** St. John Baptist Church and graveyard
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_161043832.jpg]]
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_161227969_HDR.jpg]]
+@@html:<h3><b>@@William Strange ... Margaret Strange (nee Keating)@@html:</b></h3>@@
+
+** Powerstown
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_171204942_HDR.jpg]]
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_171354961.jpg]]
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230910_171943752.jpg]]
+
+#+ATTR_HTML: :width 600
+https://drive.google.com/file/d/1TFDgwnzvGpafa0pwzw5_mmSnj5zg8XvL/view?usp=sharing
+
+#+CALL: date()
+* apple farm
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230911_100009057_HDR.jpg]]
+@@html:<h3><b>@@donkeys@@html:</b></h3>@@
+* Cliften and Ballyconneely
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230912_140736972.jpg]]
+@@html:<h3><b>@@Mularkey@@html:</b></h3>@@
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/IMG_20230913_183336373_HDR.jpg]]
+@@html:<h3><b>@@Atlantic near Ballyconneely@@html:</b></h3>@@
+* Kylemore Abbey September 15
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/kylemore2.jpg]]
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/kylemore1.jpg]]
+* Pointing, phones, ladies in waiting
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/pointing1.jpg]]
+@@html:<h3><b>@@In memory of John@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/ladieswaiting.jpg]]
+@@html:<h3><b>@@Ladies in Waiting@@html:</b></h3>@@
+
+#+ATTR_HTML: :width 600
+[[file:docs/assets/images/phone2ma.jpg]]
+@@html:<h3><b>@@Important phone call@@html:</b></h3>@@
+
+#+BEGIN_EXPORT html
+<table>
+<tr><td><b>Olivia did what?</b></td><td><b>Oh, good, no casualties</b></td></tr>
+<tr><td><img src="docs/assets/images/phone1sa.png" width="1200" /></td>
+    <td><img src="docs/assets/images/phone2sa.png" width="1200" /></td></tr>
+</table>
+#+END_EXPORT
+#+CALL: date()
+* code                                                             :noexport:
+#+NAME: date
+#+BEGIN_SRC sh :results value replace
+date
+#+END_SRC
+#+BEGIN_EXAMPLE
+(setq bold_open   "@@html:<b>@@"
+      bold_closed "@@html:</b>@@" )
+@@html:<h3><b>@@Grandma's house@@html:</b></h3>@@
+
+(setq h3-b "@@html:<h3><b>@@%s@@html:</b></h3>@@")
+
+
+(defun my/html-bold()(interactive)
+    (if(> (mark)(point))(exchange-point-and-mark))
+    (insert bold_closed)
+    (exchange-point-and-mark)
+    (insert bold_open))
+
+(defun fdsa()(interactive)
+(when(re-search-forward "CAPTION: ")(insert bold_open)(end-of-line)(insert bold_closed)))
+
+(setq my/pict "#+ATTR_HTML: :width 600
+#+CAPTION: ")
+(setq myopen "[[file:docs/assets/images/" myclose "]]")
+#+END_EXAMPLE
